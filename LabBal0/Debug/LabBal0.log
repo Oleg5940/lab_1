@@ -1,0 +1,8 @@
+﻿  LabBal0.cpp
+D:\Программирование\C++\LabBal0\LabBal0\cont.cpp(10,18): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+D:\Программирование\C++\LabBal0\LabBal0\cont.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\C++\LabBal0\LabBal0\LabBal0.cpp(40,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Программирование\C++\LabBal0\LabBal0\LabBal0.cpp(93,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Программирование\C++\LabBal0\LabBal0\LabBal0.cpp(108,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Программирование\C++\LabBal0\LabBal0\LabBal0.cpp(140,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LabBal0.vcxproj -> D:\Программирование\C++\LabBal0\Debug\LabBal0.exe
